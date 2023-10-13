@@ -19,3 +19,4 @@ https://arunksingh16.medium.com/aws-certified-solutions-architect-2020-study-not
 https://chloemcateer.medium.com/aws-solution-architect-associate-exam-study-notes-b6c5884ee500
 
 https://notes.arkalim.org/notes/aws%20solutions%20architect%20associate/aws%20solutions%20architect%20associate%20(saa-c02)/
+https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/
